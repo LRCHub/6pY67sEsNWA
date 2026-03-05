@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "今日も大天才っ！",
+  "base_artist": "一条莉々華",
+  "createdAt": "2026-03-05T07:47:11.140993Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今日も大天才っ！",
+      "artist": "一条莉々華",
+      "has_synced": true,
+      "path": "select/01_今日も大天才っ!_一条莉々華.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今日も大天才っ!",
+      "artist": "一条莉々華",
+      "has_synced": false,
+      "path": "select/pl_01_今日も大天才っ!_一条莉々華.txt"
+    }
+  ]
+}
